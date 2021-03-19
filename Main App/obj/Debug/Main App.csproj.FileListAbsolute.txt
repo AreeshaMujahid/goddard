@@ -1,0 +1,21 @@
+C:\Users\khana\source\repos\Main App\obj\Debug\Main App.csprojAssemblyReference.cache
+C:\Users\khana\source\repos\Main App\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\khana\source\repos\Main App\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\khana\source\repos\Main App\obj\Debug\Main App.csproj.ResolveComReference.cache
+C:\Users\khana\source\repos\Main App\obj\Debug\Main_App.Form1.resources
+C:\Users\khana\source\repos\Main App\obj\Debug\Main_App.Properties.Resources.resources
+C:\Users\khana\source\repos\Main App\obj\Debug\Main App.csproj.GenerateResource.cache
+C:\Users\khana\source\repos\Main App\obj\Debug\Main App.csproj.CoreCompileInputs.cache
+C:\Users\khana\source\repos\Main App\bin\Debug\Main App.exe.config
+C:\Users\khana\source\repos\Main App\bin\Debug\Main App.exe
+C:\Users\khana\source\repos\Main App\bin\Debug\Main App.pdb
+C:\Users\khana\source\repos\Main App\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\khana\source\repos\Main App\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\khana\source\repos\Main App\obj\Debug\Main App.exe
+C:\Users\khana\source\repos\Main App\obj\Debug\Main App.pdb
+C:\Users\khana\source\repos\Main App\obj\Debug\Main_App.Form2.resources
+C:\Users\khana\source\repos\Main App\obj\Debug\Main_App.Form3.resources
+C:\Users\khana\source\repos\Main App\obj\Debug\Main_App.Form4.resources
+C:\Users\khana\source\repos\Main App\obj\Debug\Main_App.Form5.resources
+C:\Users\khana\source\repos\Main App\obj\Debug\Main_App.Form6.resources
+C:\Users\khana\source\repos\Main App\obj\Debug\Main_App.Form7.resources
